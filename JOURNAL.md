@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Frople**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/397).
 
 
-## 10/13/2025 - Begun Design of key layout  
+## 10/13/2025 10 AM - Begun Design of key layout  
 
 * Begun keyboard definition in ergogen
 * read through FlatFootFox's "Lets Design a Keyboard" introduction and 1/4 of part 1 ( https://flatfootfox.com/ergogen-part1-units-points/ )
@@ -20,4 +20,20 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 
   
+
+## 10/13/2025 5 PM - Designed keymap  
+
+![screenshot-2025-10-13_17-14-05.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bed6141c09250462fd8492478a146ce25935f0d6/screenshot-2025-10-13_17-14-05.png)
+
+![screenshot-2025-10-13_17-14-15.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--891729e9718011ef7731589a1e582279ca28ea65/screenshot-2025-10-13_17-14-15.png)
+
+
+- Defined all the keys in ergogen
+- came up with a 40 key layout (6x3 main body 1x2 thumbfan)
+- Designed the keymap utilizing home-row-mods and special layers configurable in zmk. 
+- I am planning on implementing Hyprland specific keybinds to the keymap to let me navigate my window manager faster
+
+next steps:
+- design key layout in ergogen for ergonomics
+- brainstorm case designs  
 
