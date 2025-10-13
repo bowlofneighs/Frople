@@ -14,10 +14,8 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 * Begun keyboard definition in ergogen
 * read through FlatFootFox's "Lets Design a Keyboard" introduction and 1/4 of part 1 ( https://flatfootfox.com/ergogen-part1-units-points/ )
-* Did research on implementing rotary encoder and/or sliding potentiometer into keyboard design; rotary encoder is feasable, sliding potentiometer is not![screenshot-2025-10-10_18-14-51.png](/
+* Did research on implementing rotary encoder and/or sliding potentiometer into keyboard design; rotary encoder is feasable, sliding potentiometer is not
 
-
-user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c34184111849bed6ac76c417f26f7a7779f6767/screenshot-2025-10-10_18-14-51.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--83335d7114034307b246cf80a7b023bae87d250e/image.png)
 
 
