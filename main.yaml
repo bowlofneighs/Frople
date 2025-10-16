@@ -10,6 +10,9 @@ units:
 points:
   zones:
     matrix:
+      anchor:
+        # fix kicad placement
+        shift: [100, -100]
       key:
         padding: 1ky
         spread: 1kx
@@ -37,16 +40,96 @@ points:
         padding: 1ky
         spread: 1kx
       columns:
-        layer:
-          key.splay: -5
         space:
+          key.splay: -5
+        layer:
       rows:
         main:
 
 outlines:
-  raw:
+  keys:
   - what: rectangle
     where: true
     size: [kx - 0.5, ky - 0.5]
+  board:
+  - what: polygon
+    operation: stack
+    points:
+      - ref: thumbfan_layer_main
+        shift: [0.5px, -0.5py]
+      - ref: thumbfan_layer_main
+        shift: [0.5px, 0.5py + 55]
+      - ref: matrix_inner_top
+        shift: [0.5px, 0.5py]
+      - ref: matrix_middle_top
+        shift: [0.5px, 0.5py]
+      - ref: matrix_middle_top
+        shift: [-0.5px, 0.5py]
+      - ref: matrix_outer_top
+        shift: [-0.5px, 0.5py]
+      - ref: matrix_outer_bottom
+        shift: [-0.5px, -0.5py]
+      - ref: thumbfan_space_main
+        shift: [-0.5px, -0.5py]
+    fillet: 2
+  combo: 
+    - name: board
+    - operation: subtract
+      name: keys
+
+
 pcbs:
+  tutorial:
+    outlines:
+      main:
+        outline: board
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: true
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]
+      promicro:
+        what: promicro
+        params:
+          orientation: "down"
+        where: 
+          ref: matrix_inner_home
+          shift: [1kx + 1, 7]
+          rotate: -90
+      rotary:
+        what: rotary
+        params:
+          from: "p5"
+          to: "p5"
+          A: "s"
+          B: "d"
+          C: "g"
+        where:
+          ref:  matrix_inner_home
+      trrs:
+        what: trrs
+        params:
+          A: "idk"
+          B: "idek"
+          C: "IEek"
+          D: "idee"
+        where:
+          ref: matrix_index_top
+          shift: [-5, 1.1ky]
+          rotate: -20.3
+
+
 cases:
