@@ -37,3 +37,19 @@ next steps:
 - design key layout in ergogen for ergonomics
 - brainstorm case designs  
 
+## 10/15/2025 - Designed key layout  
+
+- took measurements of my hands
+- did research on how to use said measurements in keyboard layout
+- made the keyboard layout using ergogen
+- spent a while (not included in time estimate, it was like 30 minutes tho) configuring the GODDAMN PRINTER
+- verified that there was no overlap between keys which is a bit harder (not much) than it sounds due to how ergogen renders keys
+ ![screenshot-2025-10-15_22-22-37.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--353f5dda3f5b73b9129297224faab4ccd46816e6/screenshot-2025-10-15_22-22-37.png)
+
+- printed out a couple tests for the key layout to make sure it felt good to type on
+
+![WhatsApp Image 2025-10-15 at 22.23.29.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--46c00efe962477f908f3284b8cf7eaf72cdb423c/WhatsApp%20Image%202025-10-15%20at%2022.23.29.jpeg)
+
+- figured out how to push to github so now you can see my code on github (also not included in time estimate, it was like 30 minutes also, github CLI hates me)
+  
+
