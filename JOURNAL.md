@@ -53,7 +53,7 @@ next steps:
 - figured out how to push to github so now you can see my code on github (also not included in time estimate, it was like 30 minutes also, github CLI hates me)
   
 
-## 10/16/2025 - Begun design of pcb  
+## 10/16/2025 12 AM - Begun design of pcb  
 
 - did research on part pricing
 - started budgeting my build and researching keycaps, switches, encoders etc
@@ -62,4 +62,12 @@ next steps:
 - have ideas for a case (wrist rest mayhaps)
 - FlatFootFoxes guide, which i have been using to learn how to use Ergogen, is not of as much help now due to how our designs diverge.
 ![screenshot-2025-10-16_00-44-48.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--377edffc541aef2e55247ffa9bd05e02d46af414/screenshot-2025-10-16_00-44-48.png)  
+
+## 10/16/2025 10 PM - Preparations for fabrication  
+
+- finalized keyboard design (not including case and other stuff, just the pcb and components that go on said pcb)
+- finished wiring up left side of keyboard
+- begun making the schematic because ergogen only outputs the pcb file and blueprint needs pcb and schematic file for submission.
+-![screenshot-2025-10-16_00-44-48.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--94046041772930367e67b54a6c78519b14f241bf/screenshot-2025-10-16_00-44-48.png)
+  
 
