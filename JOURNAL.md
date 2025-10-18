@@ -71,3 +71,12 @@ next steps:
 -![screenshot-2025-10-16_00-44-48.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--94046041772930367e67b54a6c78519b14f241bf/screenshot-2025-10-16_00-44-48.png)
   
 
+## 10/18/2025 - SO turns out i cant fully use ergogen  
+
+- uhh, so the docs/faq didnt mention ergogen, turns out the ones on slack are different
+- uhhh, so we can use ergogen to design keyboard layout but not pcb
+- so i made the schematic from scratch and now im going to do the pcb
+- at least it makes designing pcb/schematic/case easier pretty much
+- ![screenshot-2025-10-18_19-51-45.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--271eea7ffceae89c4c52678d304087f8c73f4c24/screenshot-2025-10-18_19-51-45.png)
+  
+
