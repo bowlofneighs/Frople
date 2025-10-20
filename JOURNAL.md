@@ -80,3 +80,16 @@ next steps:
 - ![screenshot-2025-10-18_19-51-45.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--271eea7ffceae89c4c52678d304087f8c73f4c24/screenshot-2025-10-18_19-51-45.png)
   
 
+## 10/19/2025 - More PCB shenanigans  
+
+- placed the pcb components and lined them up with the layout I laid out in ergogen
+- routed the traces, spent like 5 minutes finding the last trace
+- the 3d models are all messed up and something is messed up with everything
+- idek how to explain it
+- everything is on the wrong side of the pcb somehow
+ ![screenshot-2025-10-19_20-52-24.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6413d78d01e5c00c58edb6d8d305b6bd59c64ec8/screenshot-2025-10-19_20-52-24.png)
+- to do 
+	- fix pcb
+	- make right side of pcb
+	- prepare for fabrication  
+
