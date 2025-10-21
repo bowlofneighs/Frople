@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Frople**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/397).
-
-
 ## 10/13/2025 10 AM - Begun Design of key layout  
 
 * Begun keyboard definition in ergogen
@@ -92,4 +88,19 @@ next steps:
 	- fix pcb
 	- make right side of pcb
 	- prepare for fabrication  
+
+## 10/21/2025 - Fixed the pcb  
+
+- i fixed the pcb
+- i really havent gotten much done recently
+- i just need to push through to the finish
+
+
+- todo:
+- make right pcb
+- set up bom.csv for jlcpcb pcba service
+- make some cool renders in blender yay!
+![screenshot-2025-10-21_19-37-52.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3588031b08a3de962f5f42fdbdfa8ff309b10cc/screenshot-2025-10-21_19-37-52.png)
+
+  
 
