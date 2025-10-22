@@ -95,12 +95,18 @@ next steps:
 - i really havent gotten much done recently
 - i just need to push through to the finish
 
-
 - todo:
 - make right pcb
 - set up bom.csv for jlcpcb pcba service
 - make some cool renders in blender yay!
+
+
 ![screenshot-2025-10-21_19-37-52.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3588031b08a3de962f5f42fdbdfa8ff309b10cc/screenshot-2025-10-21_19-37-52.png)
+
+
+
+
+idk what happened to the formating on this one :heavysob:
 
   
 
