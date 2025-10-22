@@ -104,3 +104,13 @@ next steps:
 
   
 
+## 10/22/2025 - Placed footprints for right PCB  
+
+- I placed the footprints for the right pcb
+- KiCAD crashed and I lost like 10 minutes of progress 
+yay autosave
+- pcb design being annoying
+- trying to find parts for bom.csv from lcsc and jlcpcb is very annoying. I think I am going to have to solder the Arduino  pro-micro myself with help from a friend because i don't have an iron. (yet... tool bag here I come)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f7fa795c5621493d8ab40b9d51fd1546953d533/image.png)
+  
+
