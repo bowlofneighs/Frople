@@ -120,3 +120,10 @@ yay autosave
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f7fa795c5621493d8ab40b9d51fd1546953d533/image.png)
   
 
+## 10/23/2025 - Finished Designing PCB  
+
+All files are ready for fabrication and assembly by JLCPCB I think. I went through their file preparation guide so I think it should all be good. Feeling nervous about finalizing my product but here we go, will be shipping this in the near future
+
+![Untitled.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkzNywicHVyIjoiYmxvYl9pZCJ9fQ==--12982c3d662624ed1cb9f317f67dd9da539ac2d1/Untitled.png)
+  
+
