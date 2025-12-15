@@ -2909,7 +2909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 77.47 60.96 0)
 			(effects
 				(font
@@ -3352,7 +3352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 90.17 72.39 0)
 			(effects
 				(font
@@ -3569,7 +3569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 58.42 49.53 0)
 			(effects
 				(font
@@ -3640,7 +3640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 90.17 60.96 0)
 			(effects
 				(font
@@ -3711,7 +3711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 64.77 60.96 0)
 			(effects
 				(font
@@ -4059,7 +4059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_CW_GPTS203211B"
+		(property "Footprint" "ScottoKeebs_Components:Button_MJTP1243"
 			(at 128.27 68.58 0)
 			(effects
 				(font
@@ -4203,7 +4203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 64.77 72.39 0)
 			(effects
 				(font
@@ -4274,7 +4274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 77.47 72.39 0)
 			(effects
 				(font
@@ -4418,7 +4418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 83.82 72.39 0)
 			(effects
 				(font
@@ -4488,7 +4488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Plug_3.5mm_CUI_SP-3541"
+		(property "Footprint" "ScottoKeebs_Components:TRRS_PJ-320A"
 			(at 177.8 138.43 0)
 			(effects
 				(font
@@ -4565,7 +4565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 71.12 49.53 0)
 			(effects
 				(font
@@ -4709,7 +4709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 71.12 60.96 0)
 			(effects
 				(font
@@ -4780,7 +4780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 90.17 83.82 0)
 			(effects
 				(font
@@ -4997,7 +4997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 77.47 49.53 0)
 			(effects
 				(font
@@ -5068,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 83.82 83.82 0)
 			(effects
 				(font
@@ -5139,7 +5139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 64.77 49.53 0)
 			(effects
 				(font
@@ -5356,7 +5356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 90.17 49.53 0)
 			(effects
 				(font
@@ -5573,7 +5573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 83.82 49.53 0)
 			(effects
 				(font
@@ -5717,7 +5717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 58.42 72.39 0)
 			(effects
 				(font
@@ -5861,7 +5861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 71.12 72.39 0)
 			(effects
 				(font
@@ -6005,7 +6005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 58.42 60.96 0)
 			(effects
 				(font
@@ -6076,7 +6076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keyswitches:Kailh_socket_PG1350"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_Choc_V1"
 			(at 83.82 60.96 0)
 			(effects
 				(font
