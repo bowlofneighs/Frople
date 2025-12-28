@@ -5,6 +5,189 @@
 	(uuid "1aaa8ee2-5e2c-4c10-b7b3-8cc6d765bb1d")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector_Audio:AudioJack3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AudioJack3"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "audio jack receptacle stereo headphones phones TRS connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jack*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AudioJack3_0_1"
+				(rectangle
+					(start -5.08 -5.08)
+					(end -6.35 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -2.54) (xy -1.27 -3.175) (xy -0.635 -2.54) (xy -0.635 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0.635 -3.175) (xy 1.27 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 3.81)
+					(end -5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy -2.54 2.54) (xy -2.54 -2.54) (xy -3.175 -3.175) (xy -3.81 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AudioJack3_1_1"
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "R"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:RotaryEncoder_Switch_MP"
 			(pin_names
 				(offset 0.254)
@@ -1389,178 +1572,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ScottoKeebs:Placeholder_TRRS"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 15.24 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "TRRS"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "ScottoKeebs_Components:TRRS_PJ-320A"
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Placeholder_TRRS_0_1"
-				(rectangle
-					(start -3.81 12.7)
-					(end 5.08 12.7)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -3.81 0)
-					(end -3.81 12.7)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -3.81 0)
-					(end 5.08 0)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 12.7)
-					(end 5.08 0)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Placeholder_TRRS_1_1"
-				(pin input line
-					(at -8.89 10.16 0)
-					(length 5.08)
-					(name "TIP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 7.62 0)
-					(length 5.08)
-					(name "RING1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 5.08 0)
-					(length 5.08)
-					(name "RING2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -8.89 2.54 0)
-					(length 5.08)
-					(name "SLEEVE"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 87.63 58.42)
@@ -1683,12 +1694,16 @@
 		(uuid "f5dce923-bbfc-4aa5-861e-25918f649163")
 	)
 	(no_connect
+		(at 111.76 100.33)
+		(uuid "2f81441c-d388-4d3f-a486-2407dade8df5")
+	)
+	(no_connect
 		(at 142.24 87.63)
 		(uuid "36113af7-b3a6-4533-9195-5e2787318989")
 	)
 	(no_connect
-		(at 111.76 90.17)
-		(uuid "41ebdbef-9749-497a-805d-8cdbf8150dd6")
+		(at 111.76 97.79)
+		(uuid "85195cfb-5301-4bce-b07a-48550379f103")
 	)
 	(no_connect
 		(at 111.76 87.63)
@@ -2110,28 +2125,6 @@
 			)
 		)
 	)
-	(global_label "SDA"
-		(shape input)
-		(at 111.76 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "08991dab-0e11-4940-bc5c-0d8788510a2b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.2067 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "0 Row"
 		(shape input)
 		(at 92.71 57.15 0)
@@ -2266,7 +2259,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 165.1 135.89 180)
+		(at 165.1 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2276,7 +2269,7 @@
 		)
 		(uuid "27ed392d-e8c6-49c9-b704-4e7b41517283")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.4862 135.89 0)
+			(at 158.4862 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2348,28 +2341,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SDA"
-		(shape input)
-		(at 165.1 130.81 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5ea6e55d-274a-428d-8ee0-c641cb68f844")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.5467 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -2660,28 +2631,6 @@
 			)
 		)
 	)
-	(global_label "SCL"
-		(shape input)
-		(at 165.1 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d4e1b1bd-0e7e-49f6-a54a-42514405e49d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.6072 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "3 Row"
 		(shape input)
 		(at 92.71 91.44 0)
@@ -2722,6 +2671,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Serial"
+		(shape input)
+		(at 165.1 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de9fcf6c-457f-42fa-87bf-0a7ac67923d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.6115 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2770,6 +2741,28 @@
 			)
 		)
 	)
+	(global_label "Serial"
+		(shape input)
+		(at 111.76 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9a4d038-bf46-4236-ad2d-e979c4be6282")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.2715 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 111.76 92.71 180)
@@ -2805,28 +2798,6 @@
 		(uuid "fb42678e-281a-4341-b42f-56e59dbde694")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 116.3343 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCL"
-		(shape input)
-		(at 111.76 100.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fb745a50-a72b-4036-a9f3-b0e23893a2c3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.2672 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,82 +4432,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:Placeholder_TRRS")
-		(at 173.99 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a0f6d1a-3000-49e6-ba36-e83834bab3d1")
-		(property "Reference" "U2"
-			(at 180.34 130.8099 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TRRS"
-			(at 180.34 133.3499 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:TRRS_PJ-320A"
-			(at 177.8 138.43 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 177.8 138.43 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 173.99 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "2dd33742-cdd1-4cb8-8968-060c68895128")
-		)
-		(pin "2"
-			(uuid "73aae335-4dd4-4ca7-912b-17d590527ba9")
-		)
-		(pin "1"
-			(uuid "84f588bb-2171-4a21-ba20-96cc139d82db")
-		)
-		(pin "4"
-			(uuid "a03a3c42-88eb-4d88-b760-05a48224fbe6")
-		)
-		(instances
-			(project ""
-				(path "/1aaa8ee2-5e2c-4c10-b7b3-8cc6d765bb1d"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
 		(at 71.12 49.53 0)
 		(unit 1)
@@ -5683,6 +5578,79 @@
 			(project "Main"
 				(path "/1aaa8ee2-5e2c-4c10-b7b3-8cc6d765bb1d"
 					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack3")
+		(at 170.18 130.81 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e29df707-47f7-4044-a69e-e93e1e2469a2")
+		(property "Reference" "J1"
+			(at 177.8 128.9049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AudioJack3"
+			(at 177.8 131.4449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles"
+			(at 170.18 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 170.18 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 170.18 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "T"
+			(uuid "4fe1b6dc-70a1-4825-aa22-169063fadb4b")
+		)
+		(pin "R"
+			(uuid "79aa4ac7-3a3a-462e-be42-43fa67bb430f")
+		)
+		(pin "S"
+			(uuid "31438916-5ec6-4745-9d0d-938a2985aa65")
+		)
+		(instances
+			(project ""
+				(path "/1aaa8ee2-5e2c-4c10-b7b3-8cc6d765bb1d"
+					(reference "J1")
 					(unit 1)
 				)
 			)
