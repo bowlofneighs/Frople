@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Main.kicad_pro",
+    "filename": "Left.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/bowlofneighs/Projects/Frople/PRODUCTION_FILES/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

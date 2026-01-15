@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "/home/bowlofneighs/Projects/Frople/PRODUCTION_FILES/")
 		)
 	)
 	(net 0 "")
@@ -22585,7 +22585,7 @@
 			(uuid "483b440e-9131-457a-8130-d9d20794c6bf")
 		)
 		(fp_line
-			(start 3.899999 -1.199999)
+			(start 3.899997 -1.199999)
 			(end 4.2 -1.199999)
 			(stroke
 				(width 0.1)
@@ -22596,7 +22596,7 @@
 		)
 		(fp_line
 			(start 3.9 -5.2)
-			(end 3.899999 -1.199999)
+			(end 3.899997 -1.199999)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -30900,17 +30900,6 @@
 		(uuid "2d80fd0a-5a94-48fe-9acc-0980e00c176a")
 	)
 	(gr_arc
-		(start 258.855474 68.558002)
-		(mid 258.222328 68.273673)
-		(end 257.926774 67.645694)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "2f33a6e8-4fe2-4872-8824-fdcbda5e7d29")
-	)
-	(gr_arc
 		(start 146 68)
 		(mid 146.292893 67.292893)
 		(end 147 67)
@@ -30922,7 +30911,7 @@
 		(uuid "4c0e69a6-09ea-4029-8188-2f414ca5676d")
 	)
 	(gr_line
-		(start 259.649983 67.251069)
+		(start 261.191812 67.349663)
 		(end 285.969582 68.934109)
 		(stroke
 			(width 0.05)
@@ -30953,6 +30942,17 @@
 		(uuid "89ea73a3-ffc0-4c69-889d-c436069b0ce6")
 	)
 	(gr_arc
+		(start 261.191812 67.349663)
+		(mid 259.998239 66.85526)
+		(end 259.355988 65.734321)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8f770623-5439-49fc-bf4e-5e821d019856")
+	)
+	(gr_arc
 		(start 186.207107 50.292893)
 		(mid 186.531531 50.076125)
 		(end 186.914214 50)
@@ -30965,7 +30965,7 @@
 	)
 	(gr_line
 		(start 256.5 51)
-		(end 257.926774 67.645694)
+		(end 259.355988 65.734321)
 		(stroke
 			(width 0.05)
 			(type default)
