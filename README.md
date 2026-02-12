@@ -3,6 +3,8 @@ Frople is a split ergonomic keyboard with a 40 key layout. It utilizes a 6x3 mai
 
 I built Frople because I have always been interested by those desktop setup videos, they seemed really cool, and I thought that a split keyboard would be a way to take my desk to the next level. I also made it because I tried out home-row-mods on my normal keyboard using a software called [Kanata](https://github.com/jtroo/kanata) and I found that it really increased my power-useriness and I wanted to take that to the next level. I also am really unsatisfied with my current keyboard, especially the lack of linux compatibal firmware. The final reason I wanted to make a split keyboard is because it sounded like a really fun project to get into hardware design with.
 
+![Render](CAD/frople.png)
+
 
 <img width="906" height="651" alt="image" src="https://github.com/user-attachments/assets/9169cdfa-2583-4b89-86f2-20e801d97d40" />
 
